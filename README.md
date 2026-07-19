@@ -44,6 +44,7 @@ Then visit `http://localhost:3000` (or the port shown).
 - **Surfaces:** Obsidian `#111317` / Charcoal `#1A1A1A`
 - **Accent:** Safety Amber `#F59E0B` / High-Vis Gold `#FFB800`
 - **Text:** Architectural White `#F8FAFC` / Steel Grey `#8A94A6`
+- **Logo:** `images/brand/bbcl-mark.svg` (nav mark), `images/brand/bbcl-logo.svg` (wordmark), `favicon.svg`
 
 ## Company
 
