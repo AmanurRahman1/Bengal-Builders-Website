@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" role="img" aria-label="BBCL — Bengal Builders">
+  <title>Bengal Builders &amp; Construction Ltd.</title>
+  <rect width="64" height="64" fill="#111317"/>
+  <rect x="3.5" y="3.5" width="57" height="57" fill="none" stroke="#F59E0B" stroke-width="1.2" opacity="0.5"/>
+  <path fill="#FFB800" fill-rule="evenodd" d="
+    M9 14 H21 L25 18 V28.5 L23 30.5 L25 32.5 V46 L21 50 H9 L7 48 V16 Z
+    M13 18.5 V27 H19.5 V18.5 Z
+    M13 34 V45.5 H19.5 V34 Z
+  "/>
+  <path fill="#FFB800" fill-rule="evenodd" d="
+    M29 14 H41 L47 20 V28.5 L44.5 30.5 L47 32.5 V44 L41 50 H29 L25 46 V18 Z
+    M33 18.5 V27 H41 V20.5 L39.5 18.5 Z
+    M33 34 V45.5 H39.5 L41 44 V34 Z
+  "/>
+  <rect x="50" y="50" width="5.5" height="5.5" fill="#D97706"/>
+  <text x="80" y="30" fill="#F8FAFC" font-family="Montserrat, ui-sans-serif, system-ui, sans-serif" font-size="22" font-weight="800" letter-spacing="4.5">BBCL</text>
+  <text x="80" y="48" fill="#8A94A6" font-family="Montserrat, ui-sans-serif, system-ui, sans-serif" font-size="9" font-weight="600" letter-spacing="2.8">BENGAL BUILDERS</text>
+</svg>
